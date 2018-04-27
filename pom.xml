@@ -17,6 +17,7 @@
         <module>prototype</module>
         <module>composite</module>
         <module>adapter</module>
+        <module>decorator</module>
     </modules>
 
 
