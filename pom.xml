@@ -18,6 +18,7 @@
         <module>composite</module>
         <module>adapter</module>
         <module>decorator</module>
+        <module>command</module>
     </modules>
 
 
