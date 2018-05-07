@@ -22,6 +22,7 @@
         <module>chain-of-responsibility</module>
         <module>memento</module>
         <module>mediator</module>
+        <module>observer</module>
     </modules>
 
 
